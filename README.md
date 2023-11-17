@@ -1,4 +1,4 @@
-# 🚀 Projetos Flutter Fantásticos 🚀
+# 🚀 Projetos Flutter - Curso ACCENTURE BRASIL 🚀
 
 E aí, colega desenvolvedor! Este repositório é um verdadeiro tesouro, com quatro apps Flutter feitos pelo incrível Alexandre Diamante. Vamos dar uma espiada:
 
